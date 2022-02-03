@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "361831573151",
+    "project_id": "second-3ce9d",
+    "storage_bucket": "second-3ce9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361831573151:android:e99fdc335ccd21cab7a4aa",
+        "android_client_info": {
+          "package_name": "com.example.a2ndalep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361831573151-pcdnaevcgji80u3lft6t2n5uqssu0e6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UktJWQDX6atrEaU3vm6t_nGesZo9A1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361831573151-pcdnaevcgji80u3lft6t2n5uqssu0e6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361831573151:android:64877f0c03e54a14b7a4aa",
+        "android_client_info": {
+          "package_name": "com.example.secondAlep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361831573151-pcdnaevcgji80u3lft6t2n5uqssu0e6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UktJWQDX6atrEaU3vm6t_nGesZo9A1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361831573151-pcdnaevcgji80u3lft6t2n5uqssu0e6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
